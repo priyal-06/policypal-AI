@@ -19,6 +19,12 @@ Built using Python, Streamlit, and Meta’s LLaMA 3 model running via Ollama loc
 - ⏰ **Important Dates Extractor** – Detects policy deadlines, renewals, and start dates
 - 💬 **Ask Any Question** – Q&A powered by LLaMA 3
 - 💸 **Budget-based Plan Suggestions** – Get insurance recommendations based on what you can afford monthly
+- 💰 **Insurance Premium Calculator**
+
+System Design
+----
+![Gen AI policypal AI](https://github.com/user-attachments/assets/67475f95-7813-4474-9f7a-316dbbb9a28b)
+
 
 ⚙️ Tech Stack
 --
