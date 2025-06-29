@@ -1,5 +1,0 @@
-streamlit
-pytesseract
-PyPDF2
-Pillow
-requests
