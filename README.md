@@ -2,12 +2,11 @@
 Introduction
 ---
 
-PolicyPal AI is a local GenAI-powered assistant that helps users:
-- Understand insurance policy documents (PDFs/images)
-- Ask natural language questions about their policy
-- Extract and highlight important dates
-- Suggest insurance plans based on monthly budget
-- Summarize policy terms in simple language
+PolicyPal AI is a Generative AI-powered web app that helps users understand their insurance policies by extracting, summarizing, and answering questions from policy documents (PDFs/images) in simple language.
+Many people struggle to understand key terms, conditions, and coverage.
+Users can upload PDFs or images and ask questions in plain English.
+
+
 
 Built using Python, Streamlit, and Meta’s LLaMA 3 model running via Ollama locally.
 
