@@ -43,7 +43,7 @@ System Design
 
 ✅ Clone the repo
 --
-git clone https://github.com/your-username/policypal-ai.git
+[git clone https://github.com/your-username/policypal-ai.git](https://github.com/priyal-06/policypal-AI.git)
 
 cd policypal-ai
 
